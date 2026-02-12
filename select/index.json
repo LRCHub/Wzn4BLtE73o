@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Who Knows",
+  "base_artist": "Daniel Caesar",
+  "createdAt": "2026-02-12T03:48:13.914013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Who_Knows_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who Knows Who Cares",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/02_Who_Knows_Who_Cares_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who Knows Where the Time Goes",
+      "artist": "Sandy Denny",
+      "has_synced": false,
+      "path": "select/03_Who_Knows_Where_the_Time_Goes_Sandy_Denny.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who Knows?",
+      "artist": "Órla Fallon",
+      "has_synced": false,
+      "path": "select/04_Who_Knows_Órla_Fallon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who Knows My Ohs",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/05_Who_Knows_My_Ohs_Psapp.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Knows Where The Time Goes",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/06_Who_Knows_Where_The_Time_Goes_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who Knows Where the Time Goes?",
+      "artist": "10,000 Maniacs",
+      "has_synced": false,
+      "path": "select/07_Who_Knows_Where_the_Time_Goes_10,000_Maniacs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/08_Who_Knows_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who Knows Where the Time Goes? (Live)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/09_Who_Knows_Where_the_Time_Goes__(Live)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who Knows Where the Time Goes (Live)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/10_Who_Knows_Where_the_Time_Goes_(Live)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/11_Who_Knows_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who Knows (Time to Take a Stand)",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/12_Who_Knows_(Time_to_Take_a_Stand)_Loudness.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/13_Who_Knows_Therapy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/14_Who_Knows_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who Knows?",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/15_Who_Knows_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/16_Who_Knows_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Who Knows",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/17_Who_Knows_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Who Knows (What Tomorrow May Bring)?",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/18_Who_Knows_(What_Tomorrow_May_Bring)_Gary_Moore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who Knows",
+      "artist": "Daniel Caesar",
+      "has_synced": false,
+      "path": "select/pl_01_Who_Knows_Daniel_Caesar.txt"
+    }
+  ]
+}
